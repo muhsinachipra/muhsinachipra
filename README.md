@@ -2,7 +2,7 @@
 
 <p>I'm Muhsin Achipra, Fullstack Web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 from 🇮🇳 <b>Kerala, India</b>
-<h3>Things I code with</h3>
+<h3>Expertise In</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" />
