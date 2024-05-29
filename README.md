@@ -50,8 +50,9 @@ from <b>Kerala, India</b>
   <a href="https://wa.me/+917593950878"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
 </p>
 
-## 💰 Support me:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muhsinachipra) 
+## 💰 Buy Me A Coffee:
+<a href="https://buymeacoffee.com/muhsinachipra"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a> 
 
-### 😂 Random Dev Meme
+
+### 😂
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
