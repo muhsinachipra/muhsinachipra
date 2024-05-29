@@ -53,7 +53,6 @@ from <b>Kerala, India</b>
 <h3>☕ Buy Me A Coffee:</h3>
 <a href="https://buymeacoffee.com/muhsinachipra"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a> 
 
-<br>
-<br>
+
 ### 😂
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
